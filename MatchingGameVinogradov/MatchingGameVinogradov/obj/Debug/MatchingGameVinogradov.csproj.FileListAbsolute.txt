@@ -1,0 +1,10 @@
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\bin\Debug\MatchingGameVinogradov.exe.config
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\bin\Debug\MatchingGameVinogradov.exe
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\bin\Debug\MatchingGameVinogradov.pdb
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.csproj.AssemblyReference.cache
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.Form1.resources
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.Properties.Resources.resources
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.csproj.GenerateResource.cache
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.csproj.CoreCompileInputs.cache
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.exe
+C:\Users\29363706\source\repos\MatchingGameVinogradov\MatchingGameVinogradov\obj\Debug\MatchingGameVinogradov.pdb
